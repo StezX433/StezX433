@@ -156,22 +156,6 @@ I enjoy building projects from scratch, experimenting with algorithms, and explo
 
 ---
 
-### 🐍 Contribution Activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/StezX433/StezX433/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" />
-</p>
-
----
-
-### 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=StezX433&theme=tokyo-night&hide_border=true" width="100%" />
-</p>
-
----
-
 ### 🤝 Connect With Me
 
 <p align="center">
